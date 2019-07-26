@@ -19,6 +19,13 @@
     "atob": ">=2.1.0",
     "basic-auth-connect": "1.0.0"
   },
+  "scripts": {
+    "start": "node app.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnwalicki/node-red-openshift.git"
+  },
   "devDependencies": {},
   "bundleDependencies": [],
 
